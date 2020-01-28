@@ -10,6 +10,7 @@ html, body {
 	border-bottom: 1px solid rgba(255,203,219);
 	background-image: url(img/header.png);
 	background-size: contain;
+	background-repeat: round;
 }
 
 .texto-cabecalho {
