@@ -71,12 +71,6 @@ html, body {
 	border-radius: 50%;
 }
 
-.whatsapp {
-    background-image: url(img/whatsapp.png);
-	background-repeat: round;
-	border-radius: 50%;
-}
-
 .secao2 {
 	clear: both;
 }
